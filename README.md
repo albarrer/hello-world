@@ -1,2 +1,2 @@
 # hello-world
-Esta es la descripción (me pregunto si admitirá tildes)
+# La descripción SÍ admite tildes, ¡maravilloso!
